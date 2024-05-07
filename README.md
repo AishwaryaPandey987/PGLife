@@ -68,3 +68,25 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+![Screenshot (103)](https://github.com/AishwaryaPandey987/PGLife/assets/98407417/e73c0a94-edfc-41eb-95de-017be510683c)
+
+
+![Screenshot (104)](https://github.com/AishwaryaPandey987/PGLife/assets/98407417/b5a3dbd6-f1ca-4cbd-986a-9178943877fc)
+
+![Screenshot (105)](https://github.com/AishwaryaPandey987/PGLife/assets/98407417/2ea60834-fc42-4820-943e-f61adc13a3db)
+
+
+![Screenshot (107)](https://github.com/AishwaryaPandey987/PGLife/assets/98407417/080bc7fb-1ec5-4dd3-a2fc-826a80ae8b11)
+
+
+![Screenshot (108)](https://github.com/AishwaryaPandey987/PGLife/assets/98407417/151e7418-2a3d-46cc-a934-2a80c9cc6da8)
+
+![Screenshot (109)](https://github.com/AishwaryaPandey987/PGLife/assets/98407417/f6b5fe8a-3705-4274-8d97-0ef979e33a10)
+
+
+
+![Screenshot (110)](https://github.com/AishwaryaPandey987/PGLife/assets/98407417/0cfa2f18-f348-4a3b-b90a-a0adf0178cc9)
+
+
+![Screenshot (111)](https://github.com/AishwaryaPandey987/PGLife/assets/98407417/1341eec5-84b1-4fc3-9a58-8ca9ffac0770)
