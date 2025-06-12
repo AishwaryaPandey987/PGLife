@@ -1,0 +1,17 @@
+.container-fluid{
+  height: 100px;
+  border: 1px solid black;
+  width: auto;
+}
+.navbar-header{
+  border: 1px solid black;
+}
+
+img{
+  height: 30%;
+  width: 30%;
+}
+.nav{
+  flex-direction: row;
+  
+}

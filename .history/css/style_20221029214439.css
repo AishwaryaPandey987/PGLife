@@ -1,0 +1,48 @@
+.navbar{
+  height: 100px;
+  border: 1px solid black;
+  width: 100%;
+}
+.navbar-header{
+  border: 1px solid black;
+}
+
+img{
+  height: 30%;
+  width: 30%;
+}
+.nav{
+  flex-direction: row;
+  
+}
+.img{
+  border: 1px solid black;
+  height: 350px;
+}
+.bg{
+
+  height: 350px;
+  width: 100%;
+ 
+
+}
+.scroll{
+  border: 1px solid black;
+  height: 400px;
+  width: 100%;
+
+}
+h1{
+  text-align: center;
+}
+.cities{
+  flex-direction: row;
+}
+.city{
+  flex-direction: row;
+  height: 40%;
+  width: 40%;
+  padding: 5px;
+  margin: 5px;
+
+}

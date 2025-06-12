@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Dashboard</title>
+ 
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="css/bootstrap.min.css" rel="stylesheet" />
+  <link href="https://use.fontawesome.com/releases/v5.11.2/css/all.css" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&display=swap" rel="stylesheet" />
+  <link href="css/common.css" rel="stylesheet" />
+</head>
+<body>
+  <div class="header  sticky-top">
+    <nav class="navbar navbar-expand-md navbar-light">
+          <a href="#"  class="navbar-brand">
+            <img src="img/logo.png" /></a>
+            <button class="navbar-toggler " type="button"  data-toggle="collapse"   data-target="#my-navbar" 
+            aria-expanded="false" aria-controls="my-navbar">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class=" collapse navbar-collapse justify-content-end " id="my-navbar">
+              <div class="nav-name">
+                Hi, Aditya Sood
+              </div>
+              <ul class="navbar-nav">
+                <li class="nav-item"><a  class="nav-link" href="#" data-toglgle ="modal" data-target="#signup-modal">
+                  <i class="fas fa-user"></i>Dashboard</a></li>
+                <div class="nav-vl"></div>
+                <li class="nav-item">
+                  <a  class="nav-link" href="#" data-toglgle ="modal" data-target="#login-modal">
+                  <i class="fas fa-sign-in-alt"></i>Logout
+                  </a>
+                  </li>
+               
+              </ul>
+            </div>
+            <div id="loading">
+            </div>
+
+            <nav aria-label="breadcrumb">
+              <ol class="breadcrumb py-2">
+                <li class="breadcrumb-item">
+                  <a href="index.html">Home</a>
+                </li>
+                <li class="breadcrumb-item active" aria-current="page">
+                  Dashboard
+                </li>
+              </ol>
+
+            </nav>
+
+            <div class="my-profile page-container" >
+              <h1>My Profile</h1>
+              <div class="row">
+                <div class="col-md-3 page-img-container">
+                  <i class="fas fa-user profile-img"></i>
+                </div>
+                <div class="col-md-9">
+                  <div class="row no-gutters justify-content-between align-items-end">
+                    <div class="profile">
+                      <div class="name">Aditya Sood</div>
+                      <div class="email">aditya@gmail.com</div>
+                      <div class="phone">9876543210</div>
+                      <div class="college">Internshala</div>
+                    </div>
+                    <div class="edit">
+                      <div class="edit-profile">Edit Profile</div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+</body>
+</html>

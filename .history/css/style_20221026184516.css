@@ -1,0 +1,19 @@
+h1{
+  color: black;
+  text-align: center;
+  border: 1px solid black;
+  border-radius: 5px;
+  background-color: pink;
+  font-size: 24px;
+
+}
+
+p{
+
+  color: black;
+  background-color: rgb(209, 231, 240);
+  border: 1px solid black;
+border-radius: 5px;
+  font-size: 14px;
+  text-align: left;
+}

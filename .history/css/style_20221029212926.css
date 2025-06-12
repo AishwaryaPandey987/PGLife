@@ -1,0 +1,37 @@
+.navbar{
+  height: 100px;
+  border: 1px solid black;
+  width: 100%;
+}
+.navbar-header{
+  border: 1px solid black;
+}
+
+img{
+  height: 30%;
+  width: 30%;
+}
+.nav{
+  flex-direction: row;
+  
+}
+.img{
+  border: 1px solid black;
+  height: 300px;
+}
+.bg{
+
+  height: 350px;
+  width: 100%;
+  filter: brightness(0.5);
+  z-index: 1;
+}
+.scroll{
+  border: 1px solid black;
+  height: 400px;
+  width: 100%;
+
+}
+h1{
+  text-align: center;
+}

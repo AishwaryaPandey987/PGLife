@@ -1,0 +1,9 @@
+p>h1 {
+   color: black;
+   background-color: rgb(225, 20, 54);
+}
+
+div h1{
+  color: blue;
+  background-color: bisque;
+}

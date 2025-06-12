@@ -1,0 +1,18 @@
+* {
+  box-sizing: border-box;
+}
+
+.row{
+
+  border:  1px solid black;
+ height: 140px;
+}
+
+.col{
+  border: 1px solid rgb(241, 19, 56);
+  display: inline-block;
+  height: 100%;
+  width: 33.33%;
+  
+}
+

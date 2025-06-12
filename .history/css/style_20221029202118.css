@@ -1,0 +1,9 @@
+.container-fluid{
+  height: 100px;
+  border: 1px solid black;
+  width: 100%;
+}
+.navbar-header{
+  height: 50%;
+  width: 50;
+}

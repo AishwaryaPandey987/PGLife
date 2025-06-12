@@ -1,0 +1,16 @@
+.navbar{
+  height: 50px;
+  border: 1px solid black;
+}
+.img{
+  height: 350px;
+  border: 1px solid black;
+}
+.scroll{
+  height: 350px;
+  border: 1px solid black;
+}
+.footer{
+  height: 150px;
+  border: 1px solid black;
+}

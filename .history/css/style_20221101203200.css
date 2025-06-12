@@ -1,0 +1,66 @@
+.navbar{
+  height: 100px;
+  border: 1px solid black;
+  width: 100%;
+}
+.navbar-header{
+  border: 1px solid black;
+}
+
+img{
+  height: 30%;
+  width: 30%;
+  background-attachment: fixed;
+}
+.nav{
+ 
+flex-direction: row;
+padding: 17px;
+margin: 23px;
+  
+}
+.img{
+  border: 1px solid black;
+  height: 350px;
+  background-attachment: fixed;
+}
+.bg{
+
+  height: 350px;
+  width: 100%;
+  background-attachment: fixed;
+
+}
+.scroll{
+  border: 1px solid black;
+  height: 400px;
+  width: 100%;
+
+}
+h1{
+  text-align: center;
+}
+
+.city{
+  
+  height: 280px;
+  width: 25%;
+  padding: 7px;
+  margin:0px;
+
+ 
+
+}
+.header .nav-vl{
+ 
+  border: 2px solid #d6d6d6;
+  height:  24px ;
+  margin: 5px;
+}
+@media ( max-width : 768px) {
+
+.header .nav-vl{
+  display : none;
+}
+
+}
