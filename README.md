@@ -31,6 +31,12 @@ Edit
 ├── js/                       # JavaScript files
 ├── index.html                # Main HTML page
 ├── ...
+
+
+
+
+
+
 🔧 Backend Setup Steps
 1. 🔁 Clone the Repository
 bash
@@ -39,10 +45,18 @@ Edit
 git clone https://github.com/AishwaryaPandey987/PGLife.git
 cd PGLife
 git checkout master
-2. 🚀 Start XAMPP
+
+
+
+
+3. 🚀 Start XAMPP
 Open XAMPP.
 
 Start Apache and MySQL modules.
+
+
+
+
 
 3. 🗄️ Create the Database
 Go to http://localhost/phpmyadmin/
@@ -53,6 +67,12 @@ sql
 Copy
 Edit
 pglife
+
+
+
+
+
+
 4. 🧱 Run SQL Queries to Setup Tables
 Open the phpMyAdmin SQL tab and run the following queries:
 
@@ -130,10 +150,21 @@ CREATE TABLE booked_users_properties (
     FOREIGN KEY (user_id) REFERENCES users(id),
     FOREIGN KEY (property_id) REFERENCES properties(id)
 );
+
+
+
+
+
+
 5. 🖼️ Add Images (Optional)
 Place your property/user images inside the /img/properties/{property_id}/ directory.
 
-6. 🔌 Configure DB Connection
+
+
+
+
+
+7. 🔌 Configure DB Connection
 Open includes/database_connect.php and ensure your DB credentials match your local MySQL setup:
 
 php
@@ -145,6 +176,10 @@ $password = "";
 $database = "pglife";
 🌐 Access Your Project
 Open your browser and go to:
+
+
+
+
 
 arduino
 Copy
