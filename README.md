@@ -152,4 +152,18 @@ Edit
 http://localhost/PGLife/
 
 📬 Need Help?
-If you face any issues, feel free to open an issue in this repository.
+If you face any issues, feel free to open an i!
+ssue in this repository.
+
+[Screenshot 2025-06-12 122654](https://github.com/user-attachments/assets/07c1e88b-ed0c-4149-952b-644d51ec480a)
+
+
+
+
+![Screenshot 2025-06-12 122715](https://github.com/user-attachments/assets/8c052e98-b658-48a8-abe0-eea38275cb30)
+
+
+
+
+
+![Screenshot 2025-06-12 122746](https://github.com/user-attachments/assets/1ae81d0e-7831-4be1-859c-3ea8320eb329)
